@@ -25,6 +25,6 @@ cd Twitter-API
 ```bash
 docker compose up
 ```
-This is the result if you install successfully with [this url](http://localhost:4000/api-docs/#/default)
+Wait a moment and here is the result if you installed successfully with [this url](http://localhost:4000/api-docs/#/default)
 
 ![alt text](image.png)
